@@ -69,7 +69,7 @@ winner = race(colors)
 
 print("The Winner Is:", winner)
 
-time.sleep(15)
+time.sleep(3)
 
 
 
